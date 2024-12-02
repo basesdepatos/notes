@@ -1,5 +1,6 @@
-Contributors
-============
 
-bananas24 - teacher
-Lowri-ui - Laura
+## 🌟 Contributors
+
+- 🧑‍🏫 **bananas24** - *teacher*
+- 🌸 **Lowri-ui** - *Laura*
+
