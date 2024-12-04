@@ -18,5 +18,6 @@ daniela898   - Daniela
 Nezeon7      - Rubén
 César	       - Ces216
 symn369      - Simona
+Sosoloogic   - yassin
 
 * Students from the BD morning group
