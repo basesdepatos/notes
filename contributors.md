@@ -1,8 +1,9 @@
 Contributors
 ============
 
-bananas24 - teacher
-Lowri-ui  - Laura
-Youssef   - YuUs01
+bananas24    - teacher
+HaggardCoder - Eduardo
+Youssef      - YuUs01
+Lowri-ui     - Laura
 
 * Students from the BD morning group
