@@ -13,10 +13,7 @@ naroa0699    - Naroa
 Karls3fni    - Manu
 Rodrigo      - rodr1313 
 daniela898   - Daniela
+César	       - Ces216
 
 * Students from the BD morning group
-
-
-
-
 
