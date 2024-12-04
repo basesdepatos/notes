@@ -8,5 +8,6 @@ Lowri-ui     - Laura
 ItsKein      - Juan
 JaimeRuiz06  - Jaime
 Ashley       - AshysCoffee
-
+naroa0699    - Naroa
 * Students from the BD morning group
+
