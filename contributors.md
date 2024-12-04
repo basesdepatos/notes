@@ -21,5 +21,6 @@ César	       - Ces216
 Sosoloogic   - yassin
 filidavid    - Christian
 Marcos-18-11 - Marcos
+symn369      - Simona
 
 * Students from the BD morning group
