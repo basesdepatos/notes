@@ -1,5 +1,5 @@
 Contributors
 ============
 
-   bananas24 - teacher
+bananas24    - teacher
 HaggardCoder - Eduardo
