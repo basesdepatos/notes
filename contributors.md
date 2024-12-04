@@ -15,11 +15,9 @@ Karls3fni    - Manu
 tamasi17     - Mati
 Rodrigo      - rodr1313 
 daniela898   - Daniela
+Montez       - JorgeMontez
 Nezeon7      - Rubén
 César	       - Ces216
 Sosoloogic   - yassin
+
 * Students from the BD morning group
-
-
-
-
