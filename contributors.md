@@ -1,4 +1,5 @@
 
+
 Contributors
 ============
 
@@ -19,7 +20,7 @@ Nezeon7      - Rubén
 Alexandra024 - Sara
 César	       - Ces216
 Sosoloogic   - yassin
+filidavid    - Christian
+Marcos-18-11 - Marcos
 
 * Students from the BD morning group
-
-
