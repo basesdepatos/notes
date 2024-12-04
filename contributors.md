@@ -1,3 +1,4 @@
+
 Contributors
 ============
 
@@ -11,6 +12,11 @@ JaimeRuiz06  - Jaime
 Ashley       - AshysCoffee
 naroa0699    - Naroa
 Karls3fni    - Manu
+tamasi17     - Mati
+Rodrigo      - rodr1313 
 daniela898   - Daniela
+Nezeon7      - Rubén
+César	       - Ces216
+
 
 * Students from the BD morning group
