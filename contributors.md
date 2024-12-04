@@ -14,6 +14,7 @@ Karls3fni    - Manu
 tamasi17     - Mati
 Rodrigo      - rodr1313 
 daniela898   - Daniela
-Montez		   - Jorge
+Montez		   - JorgeMontez
+
 
 * Students from the BD morning group
