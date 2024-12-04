@@ -5,6 +5,6 @@ bananas24    - teacher
 HaggardCoder - Eduardo
 Youssef      - YuUs01
 Lowri-ui     - Laura
-Jaime     - JaimeRuiz06
+JaimeRuiz06  - Jaime
 
 * Students from the BD morning group
