@@ -7,20 +7,19 @@
 @Sosoloogic 
 ## DDL
 
-@tamasi17 
 
 ## DCL 
 
-**DCL** (Data Control Language) is a subset of SQL used to control access to data in a database. The main DCL commands are:
+**DCL (Data Control Language)** is a subset of SQL used to control access to data in a database. The main DCL commands are:
 
 1. **GRANT**: Gives a user permission to access or modify database objects.
-   - Example in sql:
-     GRANT SELECT, INSERT ON table_name TO user_name;
+ - Example in sql:
+ GRANT SELECT, INSERT ON table_name TO user_name;
      
 
 2. **REVOKE**: Removes permissions previously granted to a user.
-   - Example in sql:
-     REVOKE SELECT, INSERT ON table_name FROM user_name;
+  - Example in sql:
+  REVOKE SELECT, INSERT ON table_name FROM user_name;
      
 
 These are the standard SQL commands but some databases can extend them to enhance security and role management. Some examples are DENY, SHOW GRANTS, CREATE ROLE, SET ROLE, DROP ROLE... 
@@ -30,11 +29,10 @@ DCL commands help manage user rights and control who can access or modify the da
 @YuUs01 
 ## TCL 
 
-@tamasi17 
-
+ 
 ## Codd's 12 rules
 
-**Codd's 12 rules** define what makes a database "relational." Here's a shorter summary:
+**Codd's 12 rules** define what makes a database "relational."
 
 1. Information Rule: Data is stored in tables.
 2. Guaranteed Access Rule: Every data item is uniquely accessible using a table, row, and column.
