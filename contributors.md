@@ -16,7 +16,6 @@ tamasi17     - Mati
 Rodrigo      - rodr1313 
 daniela898   - Daniela
 Nezeon7      - Rubén
-César	     - Ces216
 César	       - Ces216
 Sosoloogic   - yassin
 filidavid    - Christian
