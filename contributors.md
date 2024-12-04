@@ -11,5 +11,7 @@ Ashley       - AshysCoffee
 naroa0699    - Naroa
 Karls3fni    - Manu
 tamasi17     - Mati
+daniela898   - Daniela
+
 
 * Students from the BD morning group
