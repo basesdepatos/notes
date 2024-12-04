@@ -28,6 +28,15 @@ DCL commands help manage user rights and control who can access or modify the da
 @YuUs01 
 ## TCL 
 
+TCL (Transaction Control Language) is a subset of SQL used to manage transactions in a database. It helps ensure that database operations are completed successfully and maintain data integrity. The main TCL commands are:
+
+1. **COMMIT**: Saves all changes made during the current transaction.
+2. **ROLLBACK**: Undoes changes made during the current transaction, reverting the database to its previous state.
+3. **SAVEPOINT**: Sets a point within a transaction to which you can later roll back.
+4. **SET TRANSACTION**: Defines properties for the transaction, such as isolation level.
+
+TCL ensures that database operations are processed reliably and that data remains consistent, even if there are errors or system failures.
+
  
 ## Codd's 12 rules
 
@@ -51,3 +60,16 @@ These rules ensure data consistency, flexibility, and ease of use in relational 
 
 @YuUs01 
 ## SQL injection
+
+SQL Injection (SQLi) is a cyber attack where attackers manipulate SQL queries in an application's code to gain unauthorized access to a database. This can allow them to steal, modify, or delete data, bypass authentication, or perform malicious actions on the database.
+
+**How it works**: If an application does not properly sanitize user input, an attacker can inject malicious SQL code, altering the original query. For example, entering `1' OR '1' = '1` in a login form could bypass authentication by making the SQL query always return true.
+
+**Prevention**:
+- Use **prepared statements** or **parameterized queries** to separate data from code.
+- **Validate and sanitize** user inputs.
+- Limit database privileges (use the **least privilege principle**).
+- Implement **Web Application Firewalls** (WAFs) to detect attacks.
+- Avoid exposing detailed **error messages** that could provide insights into the database structure.
+
+SQL injection is a critical security risk, but it can be prevented by following proper coding practices.
