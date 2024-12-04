@@ -1,6 +1,4 @@
 
-
-
 @symn369 
 ## DML
 
@@ -26,6 +24,7 @@ These are the standard SQL commands but some databases can extend them to enhanc
 
 DCL commands help manage user rights and control who can access or modify the data.
 
+
 @YuUs01 
 ## TCL 
 
@@ -49,9 +48,6 @@ DCL commands help manage user rights and control who can access or modify the da
 
 These rules ensure data consistency, flexibility, and ease of use in relational databases.
 
+
 @YuUs01 
-
 ## SQL injection
-
-
-git commit -m "Fixes #52: Add other.md"
