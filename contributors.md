@@ -3,20 +3,21 @@
 Contributors
 ============
 
-bananas24    - teacher
+bananas24    - Teacher
 HaggardCoder - Eduardo
-Youssef      - YuUs01
+YuUs01       - Youssef
 Lowri-ui     - Laura
 KUERVO       - Angel
 ItsKein      - Juan
 JaimeRuiz06  - Jaime
-Ashley       - AshysCoffee
+AshysCoffee  - Ashley
 naroa0699    - Naroa
 Karls3fni    - Manu
 tamasi17     - Mati
-Rodrigo      - rodr1313 
+rodr1313     - Rodrigo
 daniela898   - Daniela
 Nezeon7      - Rubén
+Alexandra024 - Sara
 César	       - Ces216
 Sosoloogic   - yassin
 filidavid    - Christian
