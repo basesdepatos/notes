@@ -1,4 +1,3 @@
-
 Contributors
 ============
 
@@ -18,8 +17,6 @@ daniela898   - Daniela
 Nezeon7      - Rubén
 César	       - Ces216
 Sosoloogic   - yassin
+Marcos-18-11 - Marcos
+
 * Students from the BD morning group
-
-
-
-
