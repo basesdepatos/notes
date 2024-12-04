@@ -2,19 +2,21 @@
 Contributors
 ============
 
-bananas24    - teacher
+bananas24    - Teacher
 HaggardCoder - Eduardo
-Youssef      - YuUs01
+YuUs01       - Youssef
 Lowri-ui     - Laura
 ItsKein      - Juan
 JaimeRuiz06  - Jaime
-Ashley       - AshysCoffee
+AshysCoffee  - Ashley
 naroa0699    - Naroa
 Karls3fni    - Manu
 tamasi17     - Mati
-Rodrigo      - rodr1313 
+rodr1313     - Rodrigo
 daniela898   - Daniela
 Nezeon7      - Rubén
-César	       - Ces216
+Ces216       - César
+Alexandra024 - Sara
+
 
 * Students from the BD morning group
