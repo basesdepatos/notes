@@ -6,6 +6,7 @@ bananas24    - Teacher
 HaggardCoder - Eduardo
 YuUs01       - Youssef
 Lowri-ui     - Laura
+KUERVO       - Angel
 ItsKein      - Juan
 JaimeRuiz06  - Jaime
 AshysCoffee  - Ashley
@@ -15,8 +16,10 @@ tamasi17     - Mati
 rodr1313     - Rodrigo
 daniela898   - Daniela
 Nezeon7      - Rubén
-Ces216       - César
 Alexandra024 - Sara
-
+César	       - Ces216
+Sosoloogic   - yassin
 
 * Students from the BD morning group
+
+
