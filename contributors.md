@@ -1,3 +1,4 @@
+
 Contributors
 ============
 
@@ -9,6 +10,13 @@ ItsKein      - Juan
 JaimeRuiz06  - Jaime
 Ashley       - AshysCoffee
 naroa0699    - Naroa
+Karls3fni    - Manu
+tamasi17     - Mati
+Rodrigo      - rodr1313 
+daniela898   - Daniela
+Nezeon7      - Rubén
+César	       - Ces216
 Marcos-18-11 - Marcos
+
 * Students from the BD morning group
 
