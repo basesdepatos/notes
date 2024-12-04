@@ -11,6 +11,7 @@ Ashley       - AshysCoffee
 naroa0699    - Naroa
 Karls3fni    - Manu
 daniela898   - Daniela
+Montez		 - Jorge
 
 
 * Students from the BD morning group
