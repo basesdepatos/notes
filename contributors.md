@@ -10,5 +10,7 @@ JaimeRuiz06  - Jaime
 Ashley       - AshysCoffee
 naroa0699    - Naroa
 Karls3fni    - Manu
+daniela898   - Daniela
+
 
 * Students from the BD morning group
