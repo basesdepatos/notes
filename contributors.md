@@ -17,6 +17,9 @@ Rodrigo      - rodr1313
 daniela898   - Daniela
 Nezeon7      - Rubén
 César	       - Ces216
-
-
+Sosoloogic   - yassin
 * Students from the BD morning group
+
+
+
+
