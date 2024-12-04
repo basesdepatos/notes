@@ -9,5 +9,6 @@ ItsKein      - Juan
 JaimeRuiz06  - Jaime
 Ashley       - AshysCoffee
 naroa0699    - Naroa
-* Students from the BD morning group
+Karls3fni    - Manu
 
+* Students from the BD morning group
