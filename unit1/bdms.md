@@ -1,5 +1,28 @@
-BDMS TO DO
+BDMS EXAMPLES
 
-1. first
-2. second
-3. third
+
+ORACLE
+
+MySQL
+
+DB2
+
+
+PROGRAMMING LANGUAGES:
+
+
+PL-SQL
+
+PHP:
+
+
+
+C++
+
+
+OTHER
+
+
+BI
+
+ETL
