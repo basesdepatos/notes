@@ -1,35 +1,41 @@
 DBMS EXAMPLESCD
 
 
-ORACLE
+ORACLE: //MARCOS
 
-MySQL
+MySQL: //MARCOS
 
-DB2
+DB2: //MONTY
 
 
 PROGRAMMING LANGUAGES:
 
 
-PL-SQL
+PL-SQL: //MONTY
 
-PHP:
+PHP: //ANGEL
 
-At first the initials for "Personal Home Page" and now meaning "Hypertext Processor"
-PHP is an scripting language mostly used for web developement, due to this it has a strong connection with HTML.
-It can manage dynamic content, build websites and manage databases.
+At first the acronym for "Personal Home Page" and now meaning "Hypertext Processor"
+PHP is an open-source general purpose language mostly used for web developement, 
+due to this it has a strong connection with HTML and its used to simplify HTML code.
+It can manage dynamic content, build websites and manage databases which makes it the perfect choice for
+Server-side scripting, command-line scripting and desktop app developement compared to its competitors (Python, Java...).
 
 In our specific case (DATABASES) it is often used to mange the data inside the database, inserting,
-updating, retrieving and deleting data.
+updating, retrieving and deleting data by connecting to the database and executing queries to manage the stored data,
+the retrieved data is then displayed on the webpage.
 
-It interacts with these databases via the use of 
+It interacts with these databases via the use of libraries such as Laravel and extensions such as MySQLi
+which provide the functions (ex. mysqli_connect() or new PDO()) to execute SQL queries and handle results.
 
-C++
+C++: //ANGEL
+
+C++ is a general use OOP programming language with a ton of different uses
 
 
 OTHER
 
 
-BI
+BI: //LAURA
 
-ETL
+ETL: //LAURA
