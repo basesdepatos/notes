@@ -2,7 +2,7 @@
 @symn369 
 ## DML
 
-@Sosoloogic 
+ 
 ## DDL
 
 **DDL (Data Definition Language)** is a type of SQL used to define and manage database structures, like tables, schemas, and indexes. It doesn't deal with the data itself but with the structure that holds the data. 
