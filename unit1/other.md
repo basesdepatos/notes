@@ -5,6 +5,32 @@
 @Sosoloogic 
 ## DDL
 
+**DDL (Data Definition Language)** is a type of SQL used to define and manage database structures, like tables, schemas, and indexes. It doesn't deal with the data itself but with the structure that holds the data. 
+
+Here are the main DDL commands:
+
+1. **CREATE**: Used to create new database objects like tables, views, or schemas.
+   - Example: **`CREATE TABLE students (id INT, name VARCHAR(50));`**  
+     This creates a new table called "students" with two columns: "id" and "name".
+
+2. **ALTER**: Used to modify an existing database object (e.g., adding a new column to a table).
+   - Example: **`ALTER TABLE students ADD age INT;`**  
+     This adds a new "age" column to the "students" table.
+
+3. **DROP**: Used to delete a database object, like a table or a column.
+   - Example: **`DROP TABLE students;`**  
+     This deletes the "students" table and all its data.
+
+4. **TRUNCATE**: Used to remove all rows from a table but keeps the table structure intact.
+   - Example: **`TRUNCATE TABLE students;`**  
+     This deletes all the rows in the "students" table but doesn't remove the table itself.
+
+5. **RENAME**: Used to rename a database object (like a table or column).
+   - Example: **`RENAME students TO alumni;`**  
+     This renames the "students" table to "alumni".
+
+DDL helps you define, modify, and delete the structure of your database, but not the data inside it.
+
 
 ## DCL 
 
