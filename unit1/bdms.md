@@ -51,6 +51,30 @@ OTHER
 
 
 
-BI: //LAURA
+BI:
 
-ETL: //LAURA
+BI, as known as Busisness Intelligence, is a technology-driven process whose purpose is analyzing data and deliver
+actionable information that helps executives, managers and workers make informed busisness decisions. 
+The BI software was popularized in the 90s, and the developement of AI tools have shaped the modern BI into a busisness strategy.
+
+Its main functions are collecting data from multiple sources, then processing it into key findings for a presentation or report. BI 
+tools help busisness identify trends as well as uncover risks, providing good guidance for data-driven strategies. 
+
+Some examples of BI tools used by companies include: Microsoft Power BI, Tableau, Looker Studio, Domo, Zoho Analytics, Sisense... and so on.
+
+ETL: 
+
+ETL stands for Extract Transform Load, a powerful act of process that helps companies to collect information, data or items from different 
+sources, in order to generate reports, analytics, and decision-making. In this working method Busisness Intelligence tools are oftenly used
+as it's compatible with ETL. 
+These are required in projects such as: finance services, oil and gas, telecommunications, healthcare, life sciences, and public sector.   
+
+The method of operation has three stages, as its acronym says: 
+1. Extraction: the data is identified and copied from various sources, including structured and unstructured data. 
+For example: Relational databases (e.g., MySQL, Oracle), Flat files (e.g., CSV, JSON),Applications (e.g., CRM, ERP), NoSQL databases (e.g., MongoDB, Cassandra).
+
+2. Transformation: the data is cleaned, validated, and transformed into a usable format for the target system.
+
+3. Load: the transformed data is moved to the destination data warehouse (e.g., Snowflake, Amazon Redshift) , either through a full load or incremental updates, 
+in real-time or batch processing.
+
