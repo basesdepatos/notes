@@ -10,6 +10,7 @@ A data analyst is someone who transforms raw data into valuable insights through
 They play a key role in helping businesses understand trends and make data-driven decisions. 
 Data analysts use a wide range of tools, including programming languages (like Python or R), data querying tools (like SQL), 
 and visualization software (like Tableau), to uncover insights that inform strategic business choices.
+
 3_Data Scientist
 what is a data scientist
 A data scientist is a professional who uses scientific methods, algorithms, and systems to extract knowledge and insights from structured and unstructured data. They play a crucial role in analyzing and interpreting complex data to help organizations make informed decisions. 
