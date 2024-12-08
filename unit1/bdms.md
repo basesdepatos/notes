@@ -79,5 +79,9 @@ Oracle: Oracle is a highly robust and feature-rich relational database managemen
 
 MySQL: MySQL is an open-source relational database management system that is widely used for web applications, content management systems, and smaller to medium-sized projects. It is known for being lightweight, fast, and easy to use, while still providing robust support for SQL queries, transactions, and indexing. MySQL is often paired with web technologies like PHP and is the core component of the popular LAMP stack (Linux, Apache, MySQL, PHP/Python). It offers reliable performance, scalability, and data replication features, making it a popular choice for developers looking for an affordable, easy-to-manage database solution.
 
+DB2: Is a robust, flexible, and scalable database management system by IBM, commonly used by enterprises to manage large amounts of structured and unstructured data. It offers advanced optimization, high availability, and disaster recovery features, making it ideal for mission-critical applications.DB2 is primarily used in corporate environments and by organizations needing to manage large datasets, such as: financial services, E-commerce, healthcare, telecommunications, government
+
+PL-SQL: PL/SQL (Procedural Language/Structured Query Language) is Oracle's procedural extension for SQL. It combines SQL's data manipulation capabilities with procedural programming features such as loops, conditions, and exception handling. PL/SQL allows for the creation of complex queries, stored procedures, functions, and triggers that can be executed within the Oracle database to automate tasks, enhance performance, and ensure data integrity. It has some advantages such us: Stored procedures and functions,triggers,data validation, batch processing, error handling, optimizing performance.
+
 
 
