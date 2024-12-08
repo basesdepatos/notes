@@ -2,7 +2,7 @@ DBMS EXAMPLESCD
 
 
 
-DB2: //MONTY
+
 
 
 
@@ -11,7 +11,7 @@ PROGRAMMING LANGUAGES:
 
 
 
-PL-SQL: //MONTY
+
 
 PHP:
 
