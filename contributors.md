@@ -1,9 +1,7 @@
-
-
 Contributors
 ============
 
-bananas24    - Teacher
+- bananas24    - Teacher
 HaggardCoder - Eduardo
 YuUs01       - Youssef
 Lowri-ui     - Laura
@@ -27,5 +25,3 @@ AlexWhut     - Alex
 DGuelar      - David
 
 * Students from the BD morning group
-
-
