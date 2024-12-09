@@ -16,13 +16,11 @@
 | `git clone`    | Clona un repositorio.             |
 | `git checkout` | Cambia a una rama específica.     |
 | `git pull`     | Actualiza tu repositorio local.   |
-| `git add nombre-del-archivo`     | Agrega un archivo específico al área de preparación.
-|
-| `git add .`                      | Agrega todos los archivos modificados al área de preparación. 
-|
-| `git commit -m "mensaje descriptivo"`        | Crea un commit con un mensaje que describe los cambios.  
-|
-| `git push origin nombre-rama`                | Sube los cambios al repositorio remoto en la rama actual.
+| `git add nombre-del-archivo` | Agrega un archivo específico al área de preparación. |
+| `git add .`    | Agrega todos los archivos modificados al área de preparación. |
+| `git commit -m "mensaje descriptivo"` | Crea un commit con un mensaje que describe los cambios. |
+| `git push origin nombre-rama` | Sube los cambios al repositorio remoto en la rama actual. |
+
 
 
 ## Como cerrar una issue 
