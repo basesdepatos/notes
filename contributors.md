@@ -24,5 +24,8 @@ Sosoloogic   - yassin
 filidavid    - Christian
 Marcos-18-11 - Marcos
 AlexWhut     - Alex
+DGuelar      - David
 
 * Students from the BD morning group
+
+
