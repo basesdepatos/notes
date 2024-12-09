@@ -1,8 +1,38 @@
 
-@symn369 
 ## DML
 
- 
+In databases, **DML** stands for **Data Manipulation Language**. It is a subset of SQL (Structured Query Language) used to manipulate data stored in a database. DML commands allow users to retrieve, insert, update, and delete data within database tables. These operations interact with the data stored in the database but do not change the database's structure.
+
+### Key DML Commands:
+1. **SELECT**: Retrieves data from one or more tables.
+   
+   SELECT * FROM employees WHERE department = 'Sales';
+   
+2. **INSERT**: Adds new records to a table.
+   
+   INSERT INTO employees (name, department, salary) VALUES ('John Doe', 'Sales', 50000);
+   
+3. **UPDATE**: Modifies existing records in a table.
+   
+   UPDATE employees SET salary = 55000 WHERE name = 'John Doe';
+   
+4. **DELETE**: Removes records from a table.
+   
+   DELETE FROM employees WHERE name = 'John Doe';
+   
+
+### Characteristics of DML:
+- **Transactional**: DML operations can be rolled back or committed, depending on whether the operation succeeds or fails.
+- **Non-structural**: These commands do not alter the schema or structure of the database, unlike DDL (Data Definition Language) commands such as `CREATE` or `ALTER`.
+- **Data-Focused**: DML is all about interacting with the data, enabling CRUD (Create, Read, Update, Delete) operations.
+
+### DML vs. Other SQL Subsets:
+- **DDL (Data Definition Language)**: Manages database schema and structure.
+- **DCL (Data Control Language)**: Controls access and permissions.
+- **TCL (Transaction Control Language)**: Manages database transactions. 
+
+DML is central to most database interactions, enabling dynamic data manipulation in a database system.
+
 ## DDL
 
 **DDL (Data Definition Language)** is a type of SQL used to define and manage database structures, like tables, schemas, and indexes. It doesn't deal with the data itself but with the structure that holds the data. 
@@ -31,7 +61,6 @@ Here are the main DDL commands:
 
 DDL helps you define, modify, and delete the structure of your database, but not the data inside it.
 
-
 ## DCL 
 
 **DCL (Data Control Language)** is a subset of SQL used to control access to data in a database. The main DCL commands are:
@@ -49,7 +78,6 @@ DDL helps you define, modify, and delete the structure of your database, but not
 These are the standard SQL commands but some databases can extend them to enhance security and role management. Some examples are DENY, SHOW GRANTS, CREATE ROLE, SET ROLE, DROP ROLE... 
 
 DCL commands help manage user rights and control who can access or modify the data.
-
 
 ## TCL 
 
