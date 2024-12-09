@@ -33,3 +33,32 @@ A **file type** refers to the format or structure of a file that defines its con
 
 10. **.zip** - Compressed archive file format that contains one or more files.  
     **Archivo comprimido ZIP (.zip)** - Formato de archivo comprimido que contiene uno o más archivos.
+
+## Unicode
+
+**Unicode** is a character encoding standard that enables computers to represent and manipulate text from multiple writing systems. It provides a unique code point for each character, allowing for the consistent representation of text across different platforms and languages. For example, the character "A" has the Unicode code point U+0041, and the character "¡" has U+00A1.  
+**Unicode** es un estándar de codificación de caracteres que permite a las computadoras representar y manipular texto de múltiples sistemas de escritura. Proporciona un punto de código único para cada carácter, lo que permite una representación coherente del texto en diferentes plataformas e idiomas. Por ejemplo, el carácter "A" tiene el punto de código Unicode U+0041, y el carácter "¡" tiene U+00A1.
+
+## XML
+
+**XML** (Extensible Markup Language) is a flexible text format for storing and transporting data. It uses tags to structure data in a hierarchical format. XML is often used in web services and data interchange between systems. An example of XML:
+
+```xml
+<book>
+  <title>Introduction to Programming</title>
+  <author>John Doe</author>
+  <year>2024</year>
+</book>
+```
+**XML** (Lenguaje de Marcado Extensible) es un formato de texto flexible para almacenar y transportar datos. Utiliza etiquetas para estructurar los datos en un formato jerárquico. XML se utiliza comúnmente en servicios web e intercambio de datos entre sistemas. Un ejemplo de XML:
+
+```xml
+<libro>
+  <titulo>Introducción a la Programación</titulo>
+  <autor>Juan Pérez</autor>
+  <año>2024</año>
+</libro>
+```
+
+
+
