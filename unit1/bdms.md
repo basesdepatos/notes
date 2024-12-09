@@ -1,7 +1,5 @@
 DBMS EXAMPLES
 
-PROGRAMMING LANGUAGES:
-
 1. Oracle: Oracle is a highly robust and feature-rich relational database management system (RDBMS) designed for enterprise-level applications. It is widely used for large-scale, high-performance systems that require scalability, reliability, and advanced features such as security, transaction control, and high availability. Oracle supports complex data models and provides tools for data replication, clustering, and cloud integration. It is known for handling critical business applications and large volumes of data, making it a preferred choice for mission-critical databases in sectors like finance, telecommunications, and government.
 
 2. MySQL: MySQL is an open-source relational database management system that is widely used for web applications, content management systems, and smaller to medium-sized projects. It is known for being lightweight, fast, and easy to use, while still providing robust support for SQL queries, transactions, and indexing. MySQL is often paired with web technologies like PHP and is the core component of the popular LAMP stack (Linux, Apache, MySQL, PHP/Python). It offers reliable performance, scalability, and data replication features, making it a popular choice for developers looking for an affordable, easy-to-manage database solution.
@@ -33,7 +31,7 @@ For example: Relational databases (e.g., MySQL, Oracle), Flat files (e.g., CSV, 
 in real-time or batch processing.
 
 
-Languages:
+PROGRAMMING LANGUAGES:
 
 
 1. PHP: At first the acronym for "Personal Home Page" and now meaning "Hypertext Processor". PHP is an open-source general purpose language mostly used for web developement, 
