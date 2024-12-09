@@ -1,4 +1,5 @@
 DBMS EXAMPLES
+
 PROGRAMMING LANGUAGES:
 
 1. Oracle: Oracle is a highly robust and feature-rich relational database management system (RDBMS) designed for enterprise-level applications. It is widely used for large-scale, high-performance systems that require scalability, reliability, and advanced features such as security, transaction control, and high availability. Oracle supports complex data models and provides tools for data replication, clustering, and cloud integration. It is known for handling critical business applications and large volumes of data, making it a preferred choice for mission-critical databases in sectors like finance, telecommunications, and government.
@@ -57,7 +58,6 @@ It's a compiled language based on C which makes it not commonly used in web deve
 C++ does not have built-in database interactions 
 but still interacts with data bases by using database connectors and libraries (ODCB, MySQL...) 
 which allow programs to send queries to a database and retrieve data.
-
 In our case C++ can be used in apps that require database conectivity but it is not its primary use.
 
 
