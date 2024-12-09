@@ -18,7 +18,8 @@ rodr1313     - Rodrigo
 daniela898   - Daniela
 Nezeon7      - Rubén
 Alexandra024 - Sara
-César	     - Ces216
+César	       - Ces216
+symn369      - Simona
 Sosoloogic   - yassin
 filidavid    - Christian
 Marcos-18-11 - Marcos
