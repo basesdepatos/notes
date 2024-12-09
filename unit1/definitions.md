@@ -60,5 +60,13 @@ A **file type** refers to the format or structure of a file that defines its con
 </libro>
 ```
 
+## ASCII
 
+**ASCII** (American Standard Code for Information Interchange) is a character encoding standard that represents text in computers. It includes 128 characters, including control characters and printable symbols. For example, the letter "A" is represented by the ASCII code 65.  
+**ASCII** (Código Estándar Americano para el Intercambio de Información) es un estándar de codificación de caracteres que representa texto en las computadoras. Incluye 128 caracteres, que incluyen caracteres de control y símbolos imprimibles. Por ejemplo, la letra "A" está representada por el código ASCII 65.
+
+## Binary File
+
+A **binary file** is a file that contains data in a format that is not human-readable, meaning the data is stored in binary (0s and 1s). Unlike text files, binary files are used to store more complex data, such as images, audio, video, or executable programs. For example, `.exe` files, `.jpg` images, and `.mp3` audio files are all binary files.  
+Un **archivo binario** es un archivo que contiene datos en un formato que no es legible para los humanos, lo que significa que los datos se almacenan en binario (0s y 1s). A diferencia de los archivos de texto, los archivos binarios se utilizan para almacenar datos más complejos, como imágenes, audio, video o programas ejecutables. Por ejemplo, los archivos `.exe`, las imágenes `.jpg` y los archivos de audio `.mp3` son todos archivos binarios.
 
