@@ -7,6 +7,7 @@ MySQL: MySQL is an open-source relational database management system that is wid
 DB2: DB2 is a robust, flexible, and scalable database management system by IBM, commonly used by enterprises to manage large amounts of structured and unstructured data. It offers advanced optimization, high availability, and disaster recovery features, making it ideal for mission-critical applications. DB2 is primarily used in corporate environments and by organizations needing to manage large datasets, such as those in financial services, e-commerce, healthcare, telecommunications, and government sectors.
 
 OTHER
+
 BI: BI, also known as Business Intelligence, is a technology-driven process designed to analyze data and deliver actionable information that helps executives, managers, and workers make informed business decisions. BI software became popular in the 1990s, and the development of AI tools has shaped modern BI into a critical business strategy. Its main functions are collecting data from multiple sources and processing it into key findings for presentations or reports. BI tools help businesses identify trends and uncover risks, providing valuable guidance for data-driven strategies. Examples of BI tools used by companies include Microsoft Power BI, Tableau, Looker Studio, Domo, Zoho Analytics, and Sisense.
 
 ETL: ETL stands for Extract, Transform, Load, a powerful process that helps companies collect information and data from different sources to generate reports, analytics, and support decision-making. Business Intelligence tools are often used alongside ETL because of their compatibility. This process is commonly required in industries such as financial services, oil and gas, telecommunications, healthcare, life sciences, and the public sector.
@@ -17,6 +18,7 @@ Transformation: The data is cleaned, validated, and transformed into a usable fo
 Load: The transformed data is moved to the destination data warehouse (e.g., Snowflake, Amazon Redshift) through full load or incremental updates, in real-time or batch processing.
 
 PROGRAMMING LANGUAGES
+
 PHP: Originally an acronym for "Personal Home Page," PHP now stands for "Hypertext Preprocessor." It is an open-source, general-purpose language mostly used for web development, due to its strong connection with HTML. PHP simplifies HTML code and can manage dynamic content, build websites, and handle databases, making it an excellent choice for server-side scripting, command-line scripting, and desktop app development.
 In the context of databases, PHP is often used to manage data within the database—performing operations like inserting, updating, retrieving, and deleting data—by connecting to the database and executing queries. Retrieved data is then dynamically displayed on webpages. PHP interacts with databases using libraries like Laravel and extensions such as MySQLi, which provide functions (e.g., mysqli_connect() or new PDO()) to execute SQL queries and handle results.
 
