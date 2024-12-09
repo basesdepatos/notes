@@ -23,5 +23,6 @@ symn369      - Simona
 Sosoloogic   - yassin
 filidavid    - Christian
 Marcos-18-11 - Marcos
+AlexWhut     - Alex
 
 * Students from the BD morning group
