@@ -25,7 +25,7 @@ filidavid    - Christian
 Marcos-18-11 - Marcos
 AlexWhut     - Alex
 DGuelar      - David
-
+Eugenia-2024 - Eugenia
 * Students from the BD morning group
 
 
