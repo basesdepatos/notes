@@ -23,9 +23,11 @@ symn369      - Simona
 Sosoloogic   - yassin
 filidavid    - Christian
 Marcos-18-11 - Marcos
+DanielHe22   - Daniel
 AlexWhut     - Alex
 DGuelar      - David
 Eugenia-2024 - Eugenia
+
 * Students from the BD morning group
 
 
