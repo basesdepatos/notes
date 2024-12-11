@@ -36,3 +36,22 @@ Metadata is data that describes other data. In databases, metadata provides info
 organization, and attributes of the data stored in the database. For example, metadata can describe the types of
 data in each column of a table, constraints, and relationships between tables. It helps users and systems understand
 how to access, use, and manage the data efficiently.
+
+5. Transactions
+A transaction is a sequence of database operations that are executed as a single logical unit. Transactions must follow the ACID properties:
+- Atomicity: Ensures that all operations within a transaction are completed; otherwise, none are applied.
+- Consistency: Ensures that a transaction leaves the database in a valid state.
+- Isolation: Prevents concurrent transactions from interfering with each other.
+- Durability: Guarantees that once a transaction is committed, it remains persistent.
+
+6. Concurrency
+Concurrency refers to the ability of the database to handle multiple transactions simultaneously. Concurrency control mechanisms are used to:
+- Prevent conflicts, such as deadlocks or race conditions.
+- Maintain consistency and isolation of transactions.
+- Ensure fair resource sharing.
+
+7. Migration
+Migration involves transferring data, applications, or entire systems from one database to another. Types of migration include:
+- Database Migration: Moving data between different databases or versions.
+- Cloud Migration: Transferring databases to cloud-based systems.
+- Schema Migration: Altering database schema while preserving data integrity.
