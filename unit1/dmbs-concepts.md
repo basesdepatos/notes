@@ -55,3 +55,22 @@ Migration involves transferring data, applications, or entire systems from one d
 - Database Migration: Moving data between different databases or versions.
 - Cloud Migration: Transferring databases to cloud-based systems.
 - Schema Migration: Altering database schema while preserving data integrity.
+
+8. Connectivity:
+Refers to the ability of a database to establish and maintain a connection between a client application and the database server,
+enabling the exchange of data and commands.
+It is also essential for applications to access and interact with a database, whether it's for retrieving, updating, or managing data.
+Good connectivity ensures that database interactions are efficient and reliable.
+
+9. Replication:
+Is the process of copying and maintaining database objects, such as tables or entire databases,
+across multiple locations or servers to ensure consistency and availability.
+There are two types:
+- Master-Slave Replication
+- Multi-Master Replication
+
+10. Distribution:
+The way data is spread across multiple servers or locations. This can involve distributing data horizontally,
+(by partitioning rows across different databases or servers) or vertically (by splitting different columns across.
+
+
