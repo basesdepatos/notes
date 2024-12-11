@@ -21,10 +21,12 @@ Nezeon7      - Rubén
 Alexandra024 - Sara
 Ces216	     - César
 symn369      - Simona
-Sosoloogic   - yassin
 filidavid    - Christian
 Marcos-18-11 - Marcos
-Sosoloogic   - yassin
+DanielHe22   - Daniel
+AlexWhut     - Alex
+DGuelar      - David
+Sosoloogic   - Yassin
 AlexWhut     - Alex
 DGuelar      - David
 Eugenia-2024 - Eugenia
