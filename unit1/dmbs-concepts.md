@@ -23,3 +23,16 @@ that ensure the information is reliable and coherent. There are several types of
     -User-Defined or Business Integrity: These are rules that impose custom constraints on the data, 
     based on business requirements. These rules ensure that the data meets certain logical conditions 
     beyond those defined by the database.
+
+3. Integration:
+
+Integration in databases refers to combining data or systems from multiple sources into a unified system, 
+enabling them to work together. In database management, this could involve combining data rom different databases,
+or integrating a database with other software systems (e.g., through APIs).
+
+4. Metadata:
+
+Metadata is data that describes other data. In databases, metadata provides information about the structure,
+organization, and attributes of the data stored in the database. For example, metadata can describe the types of
+data in each column of a table, constraints, and relationships between tables. It helps users and systems understand
+how to access, use, and manage the data efficiently.
