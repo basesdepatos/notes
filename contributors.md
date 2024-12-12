@@ -26,9 +26,6 @@ Marcos-18-11 - Marcos
 DanielHe22   - Daniel
 AlexWhut     - Alex
 DGuelar      - David
-Sosoloogic   - Yassin
-AlexWhut     - Alex
-DGuelar      - David
 Eugenia-2024 - Eugenia
-
+Sosoloogic   - Yassin
 * Students from the BD morning group
