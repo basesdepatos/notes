@@ -27,6 +27,6 @@ Contributors
 - AlexWhut     - Alex
 - DGuelar      - David
 - Eugenia-2024 - Eugenia
-- Sosoloogic - Yassin
+- Sosoloogic   - Yassin
 - ErGeorgi     - Jorge
 * Students from the BD morning group
