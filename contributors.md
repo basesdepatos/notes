@@ -23,6 +23,7 @@ Contributors
 - DanielHe22   - Daniel
 - AlexWhut     - Alex
 - DGuelar      - David
+- Eugenia-2024 - Eugenia
 - Sosoloogic   - Yassin
 - ErGeorgi     - Jorge
 * Students from the BD morning group
