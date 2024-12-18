@@ -57,5 +57,4 @@
 | (Insights & reports)|           | (Data preparation &  |
 |                     |           |   cleaning)          |
 +---------------------+           +----------------------+
-
 ```
