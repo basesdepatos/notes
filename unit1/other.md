@@ -93,8 +93,8 @@ TCL ensures that database operations are processed reliably and that data remain
 
 ## SQL Mindmap
 
-All this commands can be easier to see in this [SQL Mindmap](https://edrawcloudpublicus.s3.amazonaws.com/work/2679487/2022-9-29/1664454682/thumb.png?x-oss-process=image/resize,w_300,m_lfit).
-
+These are some of the commands we have mentioned.
+![This is an SQL Mindmap](/notes/resources/sqlMindmap.png "SQL Mindmap to better understand these commands.")
 
 ## Codd's 12 rules
 
