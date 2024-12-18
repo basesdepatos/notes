@@ -8,11 +8,11 @@
 ## Tipografías
 
 (Hay que poner doble espacio al final de la línea para hacer un salto de línea simple)  
-__Negrita también__
+**Negrita también**
 
 (Dos veces enter para  línea)
 
-*Cursiva*
+_Cursiva_
 
 ## Lists
 
