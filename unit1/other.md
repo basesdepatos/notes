@@ -4,21 +4,21 @@
 In databases, **DML** stands for **Data Manipulation Language**. It is a subset of SQL (Structured Query Language) used to manipulate data stored in a database. DML commands allow users to retrieve, insert, update, and delete data within database tables. These operations interact with the data stored in the database but do not change the database's structure.
 
 ### Key DML Commands:
-1. **SELECT**: Retrieves data from one or more tables.
+- **SELECT**: Retrieves data from one or more tables.
    
-   SELECT * FROM employees WHERE department = 'Sales';
+   -SELECT * FROM employees WHERE department = 'Sales';
    
-2. **INSERT**: Adds new records to a table.
+- **INSERT**: Adds new records to a table.
    
-   INSERT INTO employees (name, department, salary) VALUES ('John Doe', 'Sales', 50000);
+   -INSERT INTO employees (name, department, salary) VALUES ('John Doe', 'Sales', 50000);
    
-3. **UPDATE**: Modifies existing records in a table.
+- **UPDATE**: Modifies existing records in a table.
    
-   UPDATE employees SET salary = 55000 WHERE name = 'John Doe';
+   -UPDATE employees SET salary = 55000 WHERE name = 'John Doe';
    
-4. **DELETE**: Removes records from a table.
+- **DELETE**: Removes records from a table.
    
-   DELETE FROM employees WHERE name = 'John Doe';
+   -DELETE FROM employees WHERE name = 'John Doe';
    
 
 ### Characteristics of DML:
@@ -39,23 +39,23 @@ DML is central to most database interactions, enabling dynamic data manipulation
 
 Here are the main DDL commands:
 
-1. **CREATE**: Used to create new database objects like tables, views, or schemas.
+- **CREATE**: Used to create new database objects like tables, views, or schemas.
    - Example: **`CREATE TABLE students (id INT, name VARCHAR(50));`**  
      This creates a new table called "students" with two columns: "id" and "name".
 
-2. **ALTER**: Used to modify an existing database object (e.g., adding a new column to a table).
+- **ALTER**: Used to modify an existing database object (e.g., adding a new column to a table).
    - Example: **`ALTER TABLE students ADD age INT;`**  
      This adds a new "age" column to the "students" table.
 
-3. **DROP**: Used to delete a database object, like a table or a column.
+- **DROP**: Used to delete a database object, like a table or a column.
    - Example: **`DROP TABLE students;`**  
      This deletes the "students" table and all its data.
 
-4. **TRUNCATE**: Used to remove all rows from a table but keeps the table structure intact.
+- **TRUNCATE**: Used to remove all rows from a table but keeps the table structure intact.
    - Example: **`TRUNCATE TABLE students;`**  
      This deletes all the rows in the "students" table but doesn't remove the table itself.
 
-5. **RENAME**: Used to rename a database object (like a table or column).
+- **RENAME**: Used to rename a database object (like a table or column).
    - Example: **`RENAME students TO alumni;`**  
      This renames the "students" table to "alumni".
 
@@ -65,12 +65,12 @@ DDL helps you define, modify, and delete the structure of your database, but not
 
 **DCL (Data Control Language)** is a subset of SQL used to control access to data in a database. The main DCL commands are:
 
-1. **GRANT**: Gives a user permission to access or modify database objects.
+- **GRANT**: Gives a user permission to access or modify database objects.
  - Example in sql:
  GRANT SELECT, INSERT ON table_name TO user_name;
      
 
-2. **REVOKE**: Removes permissions previously granted to a user.
+- **REVOKE**: Removes permissions previously granted to a user.
   - Example in sql:
   REVOKE SELECT, INSERT ON table_name FROM user_name;
      
@@ -83,10 +83,10 @@ DCL commands help manage user rights and control who can access or modify the da
 
 **TCL (Transaction Control Language)** is a subset of SQL used to manage transactions in a database. It helps ensure that database operations are completed successfully and maintain data integrity. The main TCL commands are:
 
-1. **COMMIT**: Saves all changes made during the current transaction.
-2. **ROLLBACK**: Undoes changes made during the current transaction, reverting the database to its previous state.
-3. **SAVEPOINT**: Sets a point within a transaction to which you can later roll back.
-4. **SET TRANSACTION**: Defines properties for the transaction, such as isolation level.
+- **COMMIT**: Saves all changes made during the current transaction.
+- **ROLLBACK**: Undoes changes made during the current transaction, reverting the database to its previous state.
+- **SAVEPOINT**: Sets a point within a transaction to which you can later roll back.
+- **SET TRANSACTION**: Defines properties for the transaction, such as isolation level.
 
 TCL ensures that database operations are processed reliably and that data remains consistent, even if there are errors or system failures.
 
