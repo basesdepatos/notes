@@ -7,7 +7,7 @@
   - Works with **Data Scientists** to ensure infrastructure supports advanced data analysis and modeling.
   - Collaborates with **Data Analysts** to align data systems with reporting needs.
 
-##3 Data Engineer
+### Data Engineer
 - **Focus:** Building and maintaining data infrastructure.
 - **Key Interactions:**
   - Works with **Data Architect** to ensure infrastructure aligns with the business needs.
