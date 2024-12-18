@@ -48,7 +48,7 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 
 ## Tables
-
+(Favorecemos el uso de los " : " al principio y el final para mantener la info dentro de la tabla centrada)
 (Sin dos puntos " : "  queda a la izquierda, con ellos queda centrado)
 
 | Left columns  | Right columns |
@@ -63,12 +63,12 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 ## Blocks of code
 
-(Para añadir bloques de código, utilizar una tilde ( ` ) poner encima y debajo de cada línea)
+(Para añadir bloques de código, utilizar tres tildes ( ``` ) poner encima y debajo de cada línea)
 
-`
+```
 let message = 'Hello world';
 alert(message);
-`
+```
 
 ## Inline code
 
