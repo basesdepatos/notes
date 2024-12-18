@@ -90,7 +90,12 @@ DCL commands help manage user rights and control who can access or modify the da
 
 TCL ensures that database operations are processed reliably and that data remains consistent, even if there are errors or system failures.
 
- 
+
+## SQL Mindmap
+
+All this commands can be easier to see in this [SQL Mindmap](https://edrawcloudpublicus.s3.amazonaws.com/work/2679487/2022-9-29/1664454682/thumb.png?x-oss-process=image/resize,w_300,m_lfit).
+
+
 ## Codd's 12 rules
 
 **Codd's 12 rules** define what makes a database "relational."
