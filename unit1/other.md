@@ -67,12 +67,12 @@ DDL helps you define, modify, and delete the structure of your database, but not
 
 - **GRANT**: Gives a user permission to access or modify database objects.
  - Example in sql:
- GRANT SELECT, INSERT ON table_name TO user_name;
+ `GRANT SELECT, INSERT ON table_name TO user_name`;
      
 
 - **REVOKE**: Removes permissions previously granted to a user.
   - Example in sql:
-  REVOKE SELECT, INSERT ON table_name FROM user_name;
+  `REVOKE SELECT, INSERT ON table_name FROM user_name`;
      
 
 These are the standard SQL commands but some databases can extend them to enhance security and role management. Some examples are DENY, SHOW GRANTS, CREATE ROLE, SET ROLE, DROP ROLE... 
